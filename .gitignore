@@ -1,6 +1,10 @@
-*.class
+# Idea Files #
+.idea/
+*.iml
+atlassian-ide-plugin.xml
 
-# Package Files #
-*.jar
-*.war
-*.ear
+# Maven Files #
+target/
+
+# Generated Files #
+*.min.js
