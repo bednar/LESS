@@ -22,7 +22,7 @@
     <script src="lib/less.js" type="text/javascript"></script>
     <script src="lib/less.min.js" type="text/javascript"></script>
 
-### Use in Java
+### Java
 
     this.getClass().getResourceAsStream("/lib/less.js")
     this.getClass().getResourceAsStream("/lib/less.min.js")
